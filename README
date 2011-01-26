@@ -1,0 +1,2 @@
+redirector.php is a very simple MySQL driven redirection script that can be used to perform 301 redirects in any MySQL driven CMS or any application with access to a MySQL database
+
