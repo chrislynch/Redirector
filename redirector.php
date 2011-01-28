@@ -22,6 +22,9 @@
  * 2048 is the maximum URL length supported by Internet Explorer
  * Do *NOT* include "http://" as a prefix to the URLs
 
+ * When adding data to this table:
+ * 1: fromurl should not have the http:// or https:// prefix
+ * 2: torul should have the http:// or https:// prefix UNLESS you want relative redirects.
  */
 
 $server = '';
