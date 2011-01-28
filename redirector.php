@@ -20,7 +20,8 @@
 	ENGINE = MyISAM;
  
  * 2048 is the maximum URL length supported by Internet Explorer
- 
+ * Do *NOT* include "http://" as a prefix to the URLs
+
  */
 
 $server = '';
